@@ -2,10 +2,9 @@ Archivo de la actividad 2 - Chris
 Parrafo 1 desde main
 Parrafo 2 desde main
 
-<<<<<<< HEAD
+Parrafo #1 desde user1
+Parrafo #2 desde user1
 Parrafo #1 desde user2
 Parrafo #2 desde user2
 Parrafo #3 desde user2
-=======
 Parrafo #1 desde user3
->>>>>>> a2-user3
