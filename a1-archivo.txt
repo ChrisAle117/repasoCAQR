@@ -1,2 +1,10 @@
 Archivo de la actividad 1- Chris
 Parrafo 2 desde main
+
+<<<<<<< HEAD
+Parrafo #1 desde user1
+Parrafo #2 desde user1
+=======
+Parrafo #1 desde user2
+Parrafo #2 desde user2
+>>>>>>> a1-develop
